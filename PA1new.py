@@ -2,7 +2,9 @@
 #                                              #
 #   author :	Jingxin Li <504914116@qq.com>  #
 #   date	 :  Mar 24, 2013                   #
-#                                              #
+#    										   #	
+#	HW for Coursera course					   #
+#   taught by Michael Collins				   #
 ################################################
 
 
